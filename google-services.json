@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195983578737",
+    "firebase_url": "https://abhishek-karmakar-ai.firebaseio.com",
+    "project_id": "abhishek-karmakar-ai",
+    "storage_bucket": "abhishek-karmakar-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195983578737:android:8c8f5cec6b81fa3d",
+        "android_client_info": {
+          "package_name": "com.abhishek.dialogflowchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195983578737-7mqd05a98g9bduteleqck412e72t9sau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.dialogflowchat",
+            "certificate_hash": "c367e98c4f5620b55f094ea55c3dcc37b92a6121"
+          }
+        },
+        {
+          "client_id": "195983578737-tv7o5qoqdlamklpfkegfil2eh3ca7uec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB2H882g9CgmCK8r1ZVHk1A6q44fnTfXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195983578737-tv7o5qoqdlamklpfkegfil2eh3ca7uec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
