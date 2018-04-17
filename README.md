@@ -1,6 +1,5 @@
-README.md
 
-#DialogFlow ChatBot Android
+# DialogFlow ChatBot Android
 
 A simple chatbot using DialogFlow. 
 
